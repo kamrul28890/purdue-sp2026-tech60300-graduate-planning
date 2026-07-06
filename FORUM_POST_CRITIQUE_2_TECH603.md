@@ -1,0 +1,110 @@
+# Discussion Forum Post - Feedback for TECH 603 Student's Gantt Chart
+
+**Subject:** Suggestions for Improvement: TECH 603 Gantt Chart Submission
+
+Hi [Student Name],
+
+I reviewed your Gantt chart against the TECH 60300 course rubric and wanted to share constructive feedback. Your submission shows good foundational thinking but needs specific revisions to meet rubric standards.
+
+## Rubric Scoring
+
+| Criterion | Score | Status | Issue |
+|-----------|-------|--------|-------|
+| Coursework / Credit Hours | 2/5 | ⚠️ Incomplete | No credit hours shown on courses |
+| Prelim Placement | 2/5 | ⚠️ Unclear | Prerequisites not clearly marked |
+| Proposal Placement | 4/5 | ✅ Mostly OK | Shown but not explicitly labeled |
+| Research Semesters | 4/5 | ✅ Mostly OK | Shown but vaguely articulated |
+| Defense Placement | 2/5 | ❌ MAJOR GAP | Final defense NOT explicitly marked |
+| **TOTAL** | **14/25** | **INCOMPLETE** | Needs revision before resubmission |
+
+## Critical Issues to Fix (High Priority)
+
+### Issue #1: Missing Credit Hours on Courses [RUBRIC FAILURE]
+**Problem:** Courses are listed (e.g., "STAT 50100") but credit hours are not shown. The rubric specifically requires "Coursework mapped with credit hours."
+
+**Why it matters:** Instructors need to verify you're meeting the ~60+ credit hour PhD requirement. Degree audits require this information.
+
+**Fix (2 minutes):** Add credit hour notation to EVERY course:
+- Change: `STAT 50100` 
+- To: `STAT 50100 (3cr)`
+
+Example format:
+```
+Year 1 Courses:
+- STAT 50100 (3cr)
+- CS 52000 (4cr)
+- ECE 57020 (3cr)
+```
+
+### Issue #2: Unclear Prerequisite Grouping [RUBRIC REQUIREMENT]
+**Problem:** Cannot tell which courses must complete BEFORE Prelim. Rubric requires "prerequisites in place."
+
+**Why it matters:** Evaluators need to verify you can take Prelim only after completing prerequisites.
+
+**Fix:** Group courses visually or by label:
+- Mark courses ending BEFORE Prelim clearly (e.g., color code, section header)
+- Show which courses are "Prelim prerequisites"
+- Make clear which semester is "final coursework" vs. "Prelim semester"
+
+### Issue #3: Defense Placement NOT Explicit [CRITICAL RUBRIC FAILURE]
+**Problem:** Your timeline's end date is ambiguous—could it be defense, graduation, or ETD submission? The rubric asks: "Defense correctly at the end." This must be UNMISTAKABLE.
+
+**Why it matters:** Rubric evaluators cannot score this criterion if it's not explicitly visible. You lose 5 points even if you planned it correctly.
+
+**Fix:** Add explicit milestone labels:
+- `★ FINAL DEFENSE: [Month/Year]`
+- `🎓 GRADUATION: [Month/Year]`
+- Include post-defense requirements (ETD, exit survey)
+
+### Issue #4: Vague Milestone Labels [POINT LOSS]
+**Problem:** Uses passive phrasing like "Dissertation Phases" instead of specific "Prelim Exam," "Proposal Defense," etc.
+
+**Fix:** Replace vague labels with explicit markers:
+- Instead of: "Dissertation Phase 2"
+- Use: "★ PROPOSAL DEFENSE: Spring 2028"
+
+The rubric evaluator must SEE the milestone name and date explicitly.
+
+### Issue #5: Unclear Coursework End Date [RUBRIC REQUIREMENT]
+**Problem:** Cannot determine which semester is your "final coursework" before Prelim.
+
+**Fix:** Mark explicitly:
+- Add a visual line or color block labeled "FINAL COURSEWORK ENDS: Fall 2027"
+- Ensure all prerequisite courses complete in that semester
+
+## Secondary Improvements (Recommended)
+
+6. **Semester Labeling:** Use consistent notation (Sp'26, Su'26, Fa'26, Sp'27, Fa'27, etc.) for clarity
+7. **Research Intensity:** Label research phases (Phase 1: Design, Phase 2: Collection, Phase 3: Writing)
+8. **Administrative Items:** Add prerequisites like CITI, IRB approval, committee formation
+
+## Comparison to Excellent Example
+
+For a reference, see **Tara Middlebrooks' chart** in the reference folder. She explicitly shows:
+- Every course with credit hours ✅
+- Prerequisites grouped before Prelim ✅
+- Milestones clearly labeled with dates ✅
+- Post-defense requirements shown ✅
+
+## Action Items
+
+**Before Resubmission:**
+1. ✅ Add credit hours to all courses (saves 3-5 points)
+2. ✅ Explicitly label: PRELIM [Date], PROPOSAL [Date], FINAL DEFENSE [Date]
+3. ✅ Group prerequisite courses clearly
+4. ✅ Mark final coursework semester
+5. ✅ Include post-defense requirements
+
+These fixes take ~30 minutes and should bring your score from 14/25 → 22-24/25.
+
+## Why This Matters
+
+**Key Learning:** Rubric evaluators score what they can SEE and is EXPLICIT. If a criterion isn't clearly visible, it scores 0 points even if you did the work. Being specific with labels and credit hours takes minimal time but maximizes points.
+
+## Questions?
+
+Feel free to ask for clarification on any of these points. Happy to discuss further!
+
+---
+
+*Review completed using TECH 60300 Week 11-12 rubric (5 criteria × 5 points = 25 max)*
